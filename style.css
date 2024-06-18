@@ -106,17 +106,17 @@
   }
   
   #entertaiment {
-    background-color: rgba(91, 36, 152, 0.3);
+    background-color: rgba(230, 106, 213, 0.664);
   }
   
   #entertaiment .articles article a {
-    background-color: #5b2498;
+    background-color: #982471;
   }
   
   #tech {
-    background-color: rgba(196, 23, 11, 0.3);
+    background-color: rgba(202, 216, 212, 0.76);
   }
   
   #tech .articles article a {
-    background-color: #c4170b;
+    background-color: #474949;
   }
